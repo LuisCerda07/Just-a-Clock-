@@ -1,4 +1,4 @@
-# Just-a-Clock-
+# Just a Clock!
 Clock what i did because was to bored.
 
 I'd like to share you the code of my program, you can export for Windows, Mac OS and Linux.
