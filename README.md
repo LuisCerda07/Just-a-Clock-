@@ -13,4 +13,4 @@ Reloj que hice porque estaba aburrido.
 Me gustaria compartir el codigo, lo pueden exportar para Windows, Mac OS and Linux.
 Seguro que el reloj se vera genial en tu escritorio o espacio de trabajo :)
 
-Y... solo es un rejloj, nada mas jaja.
+Y... solo es un reloj, nada mas jaja.
